@@ -1,0 +1,14 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "zelricgmd.hellotest",
+  "name": "Hello Test",
+  "version": "v0.1.0",
+  "developer": "ZelricGMD",
+  "description": "Tiny test mod: shows a popup once when the main menu opens."
+}
